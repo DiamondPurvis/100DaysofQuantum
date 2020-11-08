@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png">
+  <img src="100DaysofQuantum.png">
 </p>
 
 ## The Challenge
@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Diamond's Quantum Journey
 
 [✍️ Introduce yourself]
 
